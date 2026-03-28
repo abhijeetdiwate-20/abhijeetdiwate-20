@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Abhijeet Diwate<h1></h1>
+<h1>👋 Hi, I'am Abhijeet Diwate<h1></h1>
 
 <h2>🎓 B.Tech CSE (Core) | First Year Student at VIT Bhopal 
   
